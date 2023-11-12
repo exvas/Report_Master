@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include report_master *.css
+recursive-include report_master *.csv
+recursive-include report_master *.html
+recursive-include report_master *.ico
+recursive-include report_master *.js
+recursive-include report_master *.json
+recursive-include report_master *.md
+recursive-include report_master *.png
+recursive-include report_master *.py
+recursive-include report_master *.svg
+recursive-include report_master *.txt
+recursive-exclude report_master *.pyc
