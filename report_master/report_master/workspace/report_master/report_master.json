@@ -1,0 +1,43 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"eBY8-9eEVz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Report Master</span>\",\"col\":12}},{\"id\":\"_iLjMYlDRc\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Gross Profit Details\",\"col\":3}}]",
+ "creation": "2023-11-12 10:14:03.354040",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "crm",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Report Master",
+ "links": [],
+ "modified": "2023-11-12 10:14:56.299403",
+ "modified_by": "Administrator",
+ "module": "Report Master",
+ "name": "Report Master",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [
+  {
+   "role": "Accounts Manager"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "sequence_id": 23.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Gross Profit Details",
+   "link_to": "Gross Profit Details",
+   "type": "Report"
+  }
+ ],
+ "title": "Report Master"
+}
